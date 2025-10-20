@@ -4,14 +4,14 @@ This extended template covers the key areas according to DASC-PM. Each work step
 # 1.  Domain & Project Initiation
 This phase establishes the project's foundation by defining the problem, identifying stakeholders, and understanding domain-specific constraints. Clear objectives and success criteria are set to guide the project, ensuring feasibility and alignment with business or scientific needs.
     
-##Work steps and explanations
+## Work steps and explanations
 
-###Define project idea and objectives
+### Define project idea and objectives
 Describe the concrete problem as well as the benefits and expected added value.
 Guiding questions:
 What is the core problem? Why is it relevant? What is to be achieved?
 
-###Identify stakeholders
+### Identify stakeholders
 Identify all affected groups and key people.
 Guiding questions:
 Who is directly/indirectly involved or affected? Who makes decisions? Who are potential opponents?
@@ -26,15 +26,15 @@ Record concrete criteria/metrics for evaluating project success.
 Guiding questions:
 When is the project considered successful? Which KPIs/metrics are accepted?
         
-###Ensure feasibility
+### Ensure feasibility
 Check whether implementation is possible with available resources and technology.
 Guiding questions:
 Are necessary data, know-how, IT, and time available? Are there critical dependencies/risks?
         
-##Iteration possibilities
+## Iteration possibilities
 After insights from the data or analysis phase, returning is possible, e.g., to adjust the goal definition.
     
-##SCRUM recommendations
+## SCRUM recommendations
 - Plan user stories for goal clarification and stakeholder interviews separately (e.g. "Identify and include stakeholders").
 - Clearly separable acceptance criteria (e.g., "Project goals agreed with management and released").
     
@@ -43,7 +43,7 @@ This area focuses on identifying, accessing, and understanding the data sources 
     
 ## Work steps and explanations
 
-###Identify data sources:
+### Identify data sources:
 Record all available (internal/external) sources including their owners.
 Guiding questions:
 Where is relevant data located (databases, files, third-party systems)? How current and accessible are they?
